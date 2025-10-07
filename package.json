@@ -8,17 +8,9 @@
     "build": "vite build",
     "preview": "vite preview"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/WillHolmes0/simon.git"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/WillHolmes0/simon/issues"
-  },
-  "homepage": "https://github.com/WillHolmes0/simon#readme",
   "devDependencies": {
     "vite": "^7.1.9"
   }
